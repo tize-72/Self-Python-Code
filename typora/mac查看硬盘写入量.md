@@ -13,4 +13,3 @@ smartctl -s on disk0
 
 smartctl -a disk0
 ```
-
